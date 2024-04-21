@@ -1,1 +1,0 @@
-# jyim19.github.io
