@@ -10,7 +10,7 @@
                 "Ph.D., Computer Engineering, Virginia Tech"
             ],
             "bio": "",
-            "imageSrc": "images/ProfShin.jpg"
+            "imageSrc": "images/portrait/sookshin.jpg"
         }
     ],
     "graduate_Students": [
@@ -23,7 +23,7 @@
                 "Ph.D., Power Systems, Virginia Tech"
             ],
             "bio": "Halah Shehada is American by birth, Palestinian by blood, and was raised in Kuwait. She was born at the University of Kansas Hospital in 1998. Just like her diverse cultural heritage, Ms. Shehada has a comprehensive and diverse scientific background; she holds a BSc in General Electrical Engineering from Kuwait University and a Master's in Power Electronics and Energy Research from Kansas State University. She initially pursued her Ph.D. at Virginia Tech with a specialization in power systems for one year. Currently, she is finalizing her doctoral studies at the same institution under the supervision of Dr. Sook Ha, focusing on artificial intelligence for smart farms. She was a Global Security intern at Lawrence Livermore National Laboratory (LLNL) during summer 2022. She has three publications in wireless communication and power electronics.",
-            "imageSrc": "images/halah.jpg"
+            "imageSrc": "images/portrait/halah.jpg"
         },
         {
             "name": "Sanjana Bharadwaj",
@@ -33,17 +33,7 @@
                 "M.S., Computer Engineering, Virginia Tech"
             ],
             "bio": "Sanjana Bharadwaj, originally from India is a M.S. student specializing in Software and Machine Perception. She earned her B.S. from VJTI in India, majoring in Electronics and Telecommunication. Currently, she is working on her thesis under the guidance of Dr. S. Ha. Her research interests include Digital Image Processing, Computer Vision, Machine Learning and Deep Learning. Sanjana joined the MICS AI/ML lab in October 2022, where her primary focus has been on Video Image data analysis. She interned at Torc Robotics in Summer 2023 as a Software Engineer in their Mapping and Localization team. She brings this industry experience to all the ongoing projects in the team.",
-            "imageSrc": "images/sanjana.jpg"
-        },
-        {
-            "name": "Yingqi Pei",
-            "title": "Computer Engineering MS Student",
-            "degrees": [
-                "B.S., Electrical and Computer Engineering, Virginia Tech",
-                "M.S., Computer Engineering, Virginia Tech"
-            ],
-            "bio": "My name is Yingqi Pei, born in China and a graduate of Virginia Tech. I hold a bachelor's degree in Electrical and Computer Engineering, with minors in Mathematics and Computer Science. Currently pursuing my graduate studies at VT, specializing in machine learning with a focus on computer vision and signal processing within the Smart Farm ML/AI team. I've authored a paper on deep learning algorithms. Outside the realm of machine learning, I bring industrial experience in frontend development and game algorithms, and secured a gold medal in the Chinese Mathematical Olympiad.",
-            "imageSrc": "images/pei.png"
+            "imageSrc": "images/portrait/sanjana.jpg"
         },
         {
             "name": "Sahilpreet Singh Mann",
@@ -53,19 +43,10 @@
                 "M.S., Computer Engineering, Virginia Tech"
             ],
             "bio": "Sahilpreet Singh Mann is an adept Computer Science alumnus from Guru Nanak Dev University, currently enhancing his expertise as a Master's candidate at Virginia Tech. His technical proficiency spans data science, machine learning, and various programming languages including Python, Java, and C++. With practical experience in database management and ML algorithms, he contributes as a Research Associate to Smart Farm Team and PlantSyn Bio Labs, focusing on computer vision and deep learning projects. \n\nHis professional background includes software engineering at Amdocs Development Center, IT administration, and ERP software development at Howard Lane Sr. Sec. School. As a Data Engineer Intern at BuzzClan India, he refined his skills in ML pipelines and ETL processes. Sahilpreet is also certified in cloud computing and programming, and actively contributes to IEEE, underscoring his commitment to continual learning and community involvement.",
-            "imageSrc": "images/sahil.JPG"
+            "imageSrc": "images/portrait/sahil.JPG"
         }
     ],
     "undergraduate_Students": [
-        {
-            "name": "Jay Yim",
-            "title": "Computer Engineering BS Student",
-            "degrees": [
-                "B.S., Computer Engineering (Machine Learning), Virginia Tech"
-            ],
-            "bio": "Jay Yim is an undergraduate Computer Engineering student with a focus in Machine Learning. Jay has worked on multiple projects involving Object Detection, Image Processing, and Cloud Computing. He hopes that his passion and knowledge for Machine Learning and Computer Vision brings a notable contribution to the group and the U.S. Air Force once he graduates and commissions as an Air Force officer.",
-            "imageSrc": "images/jay.jpeg"
-        },
         {
             "name": "Zhen (Shin) Zhang",
             "title": "Computer Engineering BS Student",
@@ -73,7 +54,28 @@
                 "B.S., Computer Engineering (Machine Learning), Virginia Tech"
             ],
             "bio": "Shin Zhang is an aspiring computer engineering undergraduate at Virginia Tech, specializing in machine learning. With a keen focus on the application of machine learning and software development, Shin has been actively involved in a range of machine learning research projects, contributing fresh perspectives and innovative solutions. His passion for technology extends beyond academia, as evidenced by his development of multiple open-source software applications, demonstrating his commitment to giving back to the community. \n\nOutside the realm of technology, Shin indulges in his love for mahjong and rhythm games. He believes in making life as fun as a well-documented code – easy to read and enjoyable to work with!",
-            "imageSrc": "images/shin.jpg"
+            "imageSrc": "images/portrait/shinzhang.jpg"
+        }
+    ],
+    "alumni": [
+        {
+            "name": "Yingqi Pei",
+            "title": "Computer Engineering MS Student",
+            "degrees": [
+                "B.S., Electrical and Computer Engineering, Virginia Tech",
+                "M.S., Computer Engineering, Virginia Tech"
+            ],
+            "bio": "My name is Yingqi Pei, born in China and a graduate of Virginia Tech. I hold a bachelor's degree in Electrical and Computer Engineering, with minors in Mathematics and Computer Science. Currently pursuing my graduate studies at VT, specializing in machine learning with a focus on computer vision and signal processing within the Smart Farm ML/AI team. I've authored a paper on deep learning algorithms. Outside the realm of machine learning, I bring industrial experience in frontend development and game algorithms, and secured a gold medal in the Chinese Mathematical Olympiad.",
+            "imageSrc": "images/portrait/pei.png"
+        },
+        {
+            "name": "Jay Yim",
+            "title": "Computer Engineering BS Student",
+            "degrees": [
+                "B.S., Computer Engineering (Machine Learning), Virginia Tech"
+            ],
+            "bio": "Jay Yim is an undergraduate Computer Engineering student with a focus in Machine Learning. Jay has worked on multiple projects involving Object Detection, Image Processing, and Cloud Computing. He hopes that his passion and knowledge for Machine Learning and Computer Vision brings a notable contribution to the group and the U.S. Air Force once he graduates and commissions as an Air Force officer.",
+            "imageSrc": "images/portrait/jay.jpeg"
         }
     ]
 }

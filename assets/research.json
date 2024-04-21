@@ -1,0 +1,37 @@
+{
+    "publishedResearch": [
+      {
+        "title": "Title of Published Research 1",
+        "authors": ["Author One", "Author Two", "Author Three"],
+        "year": "2022",
+        "summary": "Brief summary of the research.",
+        "link": "http://link-to-research.com/paper1",
+        "pdf": "http://link-to-research.com/downloads/paper1.pdf"
+      },
+      {
+        "title": "Title of Published Research 2",
+        "authors": ["Author Four", "Author Five"],
+        "year": "2021",
+        "summary": "Brief summary of the research. It discusses...",
+        "link": "http://link-to-research.com/paper2",
+        "pdf": "http://link-to-research.com/downloads/paper2.pdf"
+      }
+    ],
+    "ongoingResearch": [
+      {
+        "title": "Title of Ongoing Research 1",
+        "researchers": ["Researcher One", "Researcher Two"],
+        "startYear": "2023",
+        "expectedCompletion": "2025",
+        "description": "Description of the ongoing research, its goals, and current status."
+      },
+      {
+        "title": "Title of Ongoing Research 2",
+        "researchers": ["Researcher Three", "Researcher Four"],
+        "startYear": "2022",
+        "expectedCompletion": "2024",
+        "description": "Detailed description of the research, its significance, and methodological approach."
+      }
+    ]
+  }
+  
