@@ -50,7 +50,7 @@ Research project information is stored in research.json located in the /assets/ 
     "pdf": "http://link-to-research.com/downloads/paper1.pdf"
 }
 
-// For on going research
+// For ongoing research
 {
     "title": "Title of Ongoing Research 1",
     "researchers": ["Researcher One", "Researcher Two"],
