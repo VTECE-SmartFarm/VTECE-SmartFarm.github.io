@@ -1,5 +1,7 @@
 # VTECE SmartFarm Research Group Website
 
+Website: https://vtece-smartfarm.github.io/
+
 Welcome to the repository of our Research Group's website. This README provides guidance on how to update and maintain the website, specifically focusing on adding or modifying member profiles and research project information.
 
 ## Getting Started
