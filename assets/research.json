@@ -15,6 +15,16 @@
         "summary": "Brief summary of the research. It discusses...",
         "link": "http://link-to-research.com/paper2",
         "pdf": "http://link-to-research.com/downloads/paper2.pdf"
+      },
+      {
+        "title": "Power Efficient Wireless Sensor Node Through Edge Intelligence",
+        "authors": ["Damle A. P.", "Ha S. S.", "Zhao Z.", "Roqueto dos B.", "White R.", "Ha D. S."],
+        "year": "2022"
+      },
+      {
+        "title": " Improved Pig Behavior Analysis by Optimizing Window Sizes for Individual Behaviors on Acceleration and Angular Velocity Data",
+        "authors": ["Alghamdi S.", "Zhao Z.", "Ha D.", "Morota G.", "Ha. S."],
+        "year": "2022"
       }
     ],
     "ongoingResearch": [

@@ -76,6 +76,12 @@
             ],
             "bio": "Jay Yim is an undergraduate Computer Engineering student with a focus in Machine Learning. Jay has worked on multiple projects involving Object Detection, Image Processing, and Cloud Computing. He hopes that his passion and knowledge for Machine Learning and Computer Vision brings a notable contribution to the group and the U.S. Air Force once he graduates and commissions as an Air Force officer.",
             "imageSrc": "images/portrait/jay.jpeg"
+        },
+        {
+            "name": "Zhuqing Zhao",
+            "title": "Computer Engineering MS Student",
+            "department": "M.S., Computer Engineering, Virginia Tech"
         }
+        
     ]
 }
