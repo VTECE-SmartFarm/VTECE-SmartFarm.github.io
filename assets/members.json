@@ -26,16 +26,6 @@
             "imageSrc": "images/portrait/halah.jpg"
         },
         {
-            "name": "Sanjana Bharadwaj",
-            "title": "Computer Engineering MS Student",
-            "degrees": [
-                "B.S., Electronics and Telecommunication, VJTI",
-                "M.S., Computer Engineering, Virginia Tech"
-            ],
-            "bio": "Sanjana Bharadwaj, originally from India is a M.S. student specializing in Software and Machine Perception. She earned her B.S. from VJTI in India, majoring in Electronics and Telecommunication. Currently, she is working on her thesis under the guidance of Dr. S. Ha. Her research interests include Digital Image Processing, Computer Vision, Machine Learning and Deep Learning. Sanjana joined the MICS AI/ML lab in October 2022, where her primary focus has been on Video Image data analysis. She interned at Torc Robotics in Summer 2023 as a Software Engineer in their Mapping and Localization team. She brings this industry experience to all the ongoing projects in the team.",
-            "imageSrc": "images/portrait/sanjana.jpg"
-        },
-        {
             "name": "Sahilpreet Singh Mann",
             "title": "Computer Engineering MS Student",
             "degrees": [
@@ -52,7 +42,7 @@
                 "B.S., Computer Science and Technology, Changshu Institute of Technology"
             ],
             "bio": "Yiyun Huang is a graduate from Changshu Institute of Technology, where she earned a B.S. in Computer Science and Technology. Yiyun has a background in computer science, demonstrated through her involvement in several projects, including developing a CAD system for the adjunctive diagnosis of hip disorders and creating a deep neural network model for pruning. She has gained valuable experience as a back-end developer intern at JD Logistics, where she contributed to user habit analysis and system development.",
-            "imageSrc": "images/portrait/yiyun_huang.JPG"
+            "imageSrc": "images/portrait/yiyun_huang.jpg"
         },
         {
             "name": "Zhen (Shin) Zhang",
@@ -90,6 +80,16 @@
             ],
             "bio": "Jay Yim is an undergraduate Computer Engineering student with a focus in Machine Learning. Jay has worked on multiple projects involving Object Detection, Image Processing, and Cloud Computing. He hopes that his passion and knowledge for Machine Learning and Computer Vision brings a notable contribution to the group and the U.S. Air Force once he graduates and commissions as an Air Force officer.",
             "imageSrc": "images/portrait/jay.jpeg"
+        },
+        {
+            "name": "Sanjana Bharadwaj",
+            "title": "Computer Engineering MS Student",
+            "degrees": [
+                "B.S., Electronics and Telecommunication, VJTI",
+                "M.S., Computer Engineering, Virginia Tech"
+            ],
+            "bio": "Sanjana Bharadwaj, originally from India is a M.S. student specializing in Software and Machine Perception. She earned her B.S. from VJTI in India, majoring in Electronics and Telecommunication. Currently, she is working on her thesis under the guidance of Dr. S. Ha. Her research interests include Digital Image Processing, Computer Vision, Machine Learning and Deep Learning. Sanjana joined the MICS AI/ML lab in October 2022, where her primary focus has been on Video Image data analysis. She interned at Torc Robotics in Summer 2023 as a Software Engineer in their Mapping and Localization team. She brings this industry experience to all the ongoing projects in the team.",
+            "imageSrc": "images/portrait/sanjana.jpg"
         },
         {
             "name": "Yingqi Pei",
