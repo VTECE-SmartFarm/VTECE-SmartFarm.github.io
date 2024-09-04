@@ -10,7 +10,7 @@
                 "Ph.D., Computer Engineering, Virginia Tech"
             ],
             "bio": "",
-            "imageSrc": "images/portrait/sookshin.jpg"
+            "imageSrc": "images/portrait/sook_shin.jpg"
         }
     ],
     "graduate_Students": [
@@ -44,20 +44,53 @@
             ],
             "bio": "Sahilpreet Singh Mann is an adept Computer Science alumnus from Guru Nanak Dev University, currently enhancing his expertise as a Master's candidate at Virginia Tech. His technical proficiency spans data science, machine learning, and various programming languages including Python, Java, and C++. With practical experience in database management and ML algorithms, he contributes as a Research Associate to Smart Farm Team and PlantSyn Bio Labs, focusing on computer vision and deep learning projects. \n\nHis professional background includes software engineering at Amdocs Development Center, IT administration, and ERP software development at Howard Lane Sr. Sec. School. As a Data Engineer Intern at BuzzClan India, he refined his skills in ML pipelines and ETL processes. Sahilpreet is also certified in cloud computing and programming, and actively contributes to IEEE, underscoring his commitment to continual learning and community involvement.",
             "imageSrc": "images/portrait/sahil.JPG"
+        },
+        {
+            "name": "Yiyun Huang",
+            "title": "Computer Engineering MS Student",
+            "degrees": [
+                "B.S., Computer Science and Technology, Changshu Institute of Technology"
+            ],
+            "bio": "Yiyun Huang is a graduate from Changshu Institute of Technology, where she earned a B.S. in Computer Science and Technology. Yiyun has a background in computer science, demonstrated through her involvement in several projects, including developing a CAD system for the adjunctive diagnosis of hip disorders and creating a deep neural network model for pruning. She has gained valuable experience as a back-end developer intern at JD Logistics, where she contributed to user habit analysis and system development.",
+            "imageSrc": "images/portrait/yiyun_huang.JPG"
+        },
+        {
+            "name": "Zhen (Shin) Zhang",
+            "title": "Computer Engineering MS Student",
+            "degrees": [
+                "B.S., Computer Engineering (Machine Learning), Virginia Tech",
+                "M.S., Computer Engineering, Virginia Tech"
+            ],
+            "bio": "Shin Zhang is an aspiring computer engineering undergraduate at Virginia Tech, specializing in machine learning. With a keen focus on the application of machine learning and software development, Shin has been actively involved in a range of machine learning research projects, contributing fresh perspectives and innovative solutions. His passion for technology extends beyond academia, as evidenced by his development of multiple open-source software applications, demonstrating his commitment to giving back to the community. \n\nOutside the realm of technology, Shin indulges in his love for mahjong and rhythm games. He believes in making life as fun as a well-documented code – easy to read and enjoyable to work with!",
+            "imageSrc": "images/portrait/shin_zhang.jpg"
         }
     ],
     "undergraduate_Students": [
         {
-            "name": "Zhen (Shin) Zhang",
+            "name": "Drewry James Raymond",
+            "title": "Computer Engineering BS Student",
+            "degrees": [],
+            "bio": "I grew up in Colonial Heights, VA and I am a Networking & Cybersecurity Major. I am a believer in Christ and I enjoy spending time at my campus ministry BCM@VT. My career interests include IoT devices and network security.",
+            "imageSrc": "images/portrait/raymond_drewry.jpg"
+        },
+        {
+            "name": "Palani Rahul",
+            "title": "Computer Engineering BS Student",
+            "degrees": [],
+            "bio": "Rahul Palani is a driven undergraduate Computer Engineering Student, specializing in Machine Learning and Cybersecurity. Rahul’s interest and passion for Machine Learning and Software Development can be seen through his work experience and project endeavors, namely his internship at SearchBlox and his NBA Analyzer project. At SearchBlox, Rahul worked to streamline the integration of external pipelines into the company’s NLP text processor, improving execution time and optimizing inference accuracy through LLM finetuning and neural pruning. While working on his NBA Analyzer passion project, Rahul utilized various deep learning and predictive modeling algorithms to determine future NBA Game scores and player statistics.",
+            "imageSrc": "images/portrait/rahul_palani.png"
+        }
+    ],
+    "alumni": [
+        {
+            "name": "Jay Yim",
             "title": "Computer Engineering BS Student",
             "degrees": [
                 "B.S., Computer Engineering (Machine Learning), Virginia Tech"
             ],
-            "bio": "Shin Zhang is an aspiring computer engineering undergraduate at Virginia Tech, specializing in machine learning. With a keen focus on the application of machine learning and software development, Shin has been actively involved in a range of machine learning research projects, contributing fresh perspectives and innovative solutions. His passion for technology extends beyond academia, as evidenced by his development of multiple open-source software applications, demonstrating his commitment to giving back to the community. \n\nOutside the realm of technology, Shin indulges in his love for mahjong and rhythm games. He believes in making life as fun as a well-documented code – easy to read and enjoyable to work with!",
-            "imageSrc": "images/portrait/shinzhang.jpg"
-        }
-    ],
-    "alumni": [
+            "bio": "Jay Yim is an undergraduate Computer Engineering student with a focus in Machine Learning. Jay has worked on multiple projects involving Object Detection, Image Processing, and Cloud Computing. He hopes that his passion and knowledge for Machine Learning and Computer Vision brings a notable contribution to the group and the U.S. Air Force once he graduates and commissions as an Air Force officer.",
+            "imageSrc": "images/portrait/jay.jpeg"
+        },
         {
             "name": "Yingqi Pei",
             "title": "Computer Engineering MS Student",
@@ -69,19 +102,9 @@
             "imageSrc": "images/portrait/pei.png"
         },
         {
-            "name": "Jay Yim",
-            "title": "Computer Engineering BS Student",
-            "degrees": [
-                "B.S., Computer Engineering (Machine Learning), Virginia Tech"
-            ],
-            "bio": "Jay Yim is an undergraduate Computer Engineering student with a focus in Machine Learning. Jay has worked on multiple projects involving Object Detection, Image Processing, and Cloud Computing. He hopes that his passion and knowledge for Machine Learning and Computer Vision brings a notable contribution to the group and the U.S. Air Force once he graduates and commissions as an Air Force officer.",
-            "imageSrc": "images/portrait/jay.jpeg"
-        },
-        {
             "name": "Zhuqing Zhao",
             "title": "Computer Engineering MS Student",
             "department": "M.S., Computer Engineering, Virginia Tech"
         }
-        
     ]
 }
