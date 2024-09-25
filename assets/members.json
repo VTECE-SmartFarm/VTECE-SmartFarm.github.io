@@ -26,16 +26,6 @@
             "imageSrc": "images/portrait/halah.jpg"
         },
         {
-            "name": "Sahilpreet Singh Mann",
-            "title": "Computer Engineering MS Student",
-            "degrees": [
-                "B.S., Computer Science, Guru Nanak Dev University",
-                "M.S., Computer Engineering, Virginia Tech"
-            ],
-            "bio": "Sahilpreet Singh Mann is an adept Computer Science alumnus from Guru Nanak Dev University, currently enhancing his expertise as a Master's candidate at Virginia Tech. His technical proficiency spans data science, machine learning, and various programming languages including Python, Java, and C++. With practical experience in database management and ML algorithms, he contributes as a Research Associate to Smart Farm Team and PlantSyn Bio Labs, focusing on computer vision and deep learning projects. \n\nHis professional background includes software engineering at Amdocs Development Center, IT administration, and ERP software development at Howard Lane Sr. Sec. School. As a Data Engineer Intern at BuzzClan India, he refined his skills in ML pipelines and ETL processes. Sahilpreet is also certified in cloud computing and programming, and actively contributes to IEEE, underscoring his commitment to continual learning and community involvement.",
-            "imageSrc": "images/portrait/sahil.JPG"
-        },
-        {
             "name": "Yiyun Huang",
             "title": "Computer Engineering MS Student",
             "degrees": [
@@ -53,6 +43,16 @@
             ],
             "bio": "Shin Zhang is an aspiring computer engineering undergraduate at Virginia Tech, specializing in machine learning. With a keen focus on the application of machine learning and software development, Shin has been actively involved in a range of machine learning research projects, contributing fresh perspectives and innovative solutions. His passion for technology extends beyond academia, as evidenced by his development of multiple open-source software applications, demonstrating his commitment to giving back to the community. \n\nOutside the realm of technology, Shin indulges in his love for mahjong and rhythm games. He believes in making life as fun as a well-documented code – easy to read and enjoyable to work with!",
             "imageSrc": "images/portrait/shin_zhang.jpg"
+        },
+        {
+            "name": "Iffat Shahid Khatib",
+            "title": "Computer Engineering MS Student",
+            "degrees": [
+                "B.E., Information Technology, University of Mumbai",
+                "M.S., Computer Engineering, Virginia Tech"
+            ],
+            "bio": "I am a Computer Engineering graduate student and my research focus lies in the intersection of data science, machine learning and artificial intelligence. I enjoy working towards any data-driven innovation that solves real-world problems.",
+            "imageSrc": "images/portrait/iffat_khatib.jpg"
         }
     ],
     "undergraduate_Students": [
@@ -72,6 +72,16 @@
         }
     ],
     "alumni": [
+        {
+            "name": "Sahilpreet Singh Mann",
+            "title": "Computer Engineering MS Student",
+            "degrees": [
+                "B.S., Computer Science, Guru Nanak Dev University",
+                "M.S., Computer Engineering, Virginia Tech"
+            ],
+            "bio": "Sahilpreet Singh Mann is an adept Computer Science alumnus from Guru Nanak Dev University, currently enhancing his expertise as a Master's candidate at Virginia Tech. His technical proficiency spans data science, machine learning, and various programming languages including Python, Java, and C++. With practical experience in database management and ML algorithms, he contributes as a Research Associate to Smart Farm Team and PlantSyn Bio Labs, focusing on computer vision and deep learning projects. \n\nHis professional background includes software engineering at Amdocs Development Center, IT administration, and ERP software development at Howard Lane Sr. Sec. School. As a Data Engineer Intern at BuzzClan India, he refined his skills in ML pipelines and ETL processes. Sahilpreet is also certified in cloud computing and programming, and actively contributes to IEEE, underscoring his commitment to continual learning and community involvement.",
+            "imageSrc": "images/portrait/sahil.JPG"
+        },
         {
             "name": "Jay Yim",
             "title": "Computer Engineering BS Student",
